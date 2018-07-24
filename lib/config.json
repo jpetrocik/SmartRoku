@@ -1,0 +1,7 @@
+{
+	"mqttServerUrl":"tcp://mqtt.local:1883",
+	"018950d3-a000-1030-8003-dc3a5e41af61": {
+		"commandTopic":"house/livingroom/roku/command",
+		"statusTopic":"house/livingroom/roku/status"
+	}	
+}
